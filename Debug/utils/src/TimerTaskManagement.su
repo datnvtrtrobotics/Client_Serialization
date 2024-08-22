@@ -1,0 +1,3 @@
+../utils/src/TimerTaskManagement.c:10:5:TimerTaskManagement_run	24	static
+../utils/src/TimerTaskManagement.c:20:5:AddTimerTask	24	static
+../utils/src/TimerTaskManagement.c:29:6:InitTimerTasks	40	static

@@ -1,0 +1,2 @@
+../drvs/src/ButtonHandle.c:12:9:ButtonHandle_polling	24	static
+../drvs/src/ButtonHandle.c:38:5:ButtonHandle_eventOnChange	24	static

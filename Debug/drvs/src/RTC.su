@@ -1,0 +1,2 @@
+../drvs/src/RTC.c:10:6:rtc_getDate	24	static
+../drvs/src/RTC.c:18:6:rtc_getHour	24	static

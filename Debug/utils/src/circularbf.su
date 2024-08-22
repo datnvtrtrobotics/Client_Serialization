@@ -1,0 +1,2 @@
+../utils/src/circularbf.c:10:5:CircularBuffer_Write	24	static
+../utils/src/circularbf.c:20:5:CircularBuffer_Read	16	static

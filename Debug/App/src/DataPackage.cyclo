@@ -1,0 +1,9 @@
+../App/src/DataPackage.c:13:10:calculateChecksum	4
+../App/src/DataPackage.c:28:6:header	1
+../App/src/DataPackage.c:34:6:calculateAndSetChecksum	2
+../App/src/DataPackage.c:52:6:PackDateStreamData	1
+../App/src/DataPackage.c:66:6:PackHourStreamData	1
+../App/src/DataPackage.c:80:6:PackAdcStreamData	1
+../App/src/DataPackage.c:91:6:PackHelloWorldStream	3
+../App/src/DataPackage.c:110:6:PackButtonStreamData	1
+../App/src/DataPackage.c:121:6:PackTempStreamData	1

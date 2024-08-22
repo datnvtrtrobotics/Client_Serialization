@@ -1,0 +1,3 @@
+../drvs/src/ADC.c:10:10:adc_getValue	1
+../drvs/src/ADC.c:25:10:adc_getTemp	1
+../drvs/src/ADC.c:30:6:adc_update	1

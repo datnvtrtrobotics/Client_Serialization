@@ -1,0 +1,2 @@
+../drvs/src/GPIO_Driver.c:11:9:gpio_read	16	static
+../drvs/src/GPIO_Driver.c:15:6:gpio_write	16	static
